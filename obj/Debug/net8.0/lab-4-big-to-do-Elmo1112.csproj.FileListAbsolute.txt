@@ -1,0 +1,15 @@
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\bin\Debug\net8.0\lab-4-big-to-do-Elmo1112.exe
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\bin\Debug\net8.0\lab-4-big-to-do-Elmo1112.deps.json
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\bin\Debug\net8.0\lab-4-big-to-do-Elmo1112.runtimeconfig.json
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\bin\Debug\net8.0\lab-4-big-to-do-Elmo1112.dll
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\bin\Debug\net8.0\lab-4-big-to-do-Elmo1112.pdb
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\obj\Debug\net8.0\lab-4-big-to-do-Elmo1112.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\obj\Debug\net8.0\lab-4-big-to-do-Elmo1112.AssemblyInfoInputs.cache
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\obj\Debug\net8.0\lab-4-big-to-do-Elmo1112.AssemblyInfo.cs
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\obj\Debug\net8.0\lab-4-big-to-do-Elmo1112.csproj.CoreCompileInputs.cache
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\obj\Debug\net8.0\lab-4-big-to-do-Elmo1112.sourcelink.json
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\obj\Debug\net8.0\lab-4-big-to-do-Elmo1112.dll
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\obj\Debug\net8.0\refint\lab-4-big-to-do-Elmo1112.dll
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\obj\Debug\net8.0\lab-4-big-to-do-Elmo1112.pdb
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\obj\Debug\net8.0\lab-4-big-to-do-Elmo1112.genruntimeconfig.cache
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-4-big-to-do-Elmo1112\obj\Debug\net8.0\ref\lab-4-big-to-do-Elmo1112.dll
